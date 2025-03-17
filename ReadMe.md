@@ -8,19 +8,35 @@
 ## Hoyo Buddy
 ### Honkai: Star Rail
 #### Character Build Cards
-![HSR Template 2](/assets/images/hsr_temp2.png)
+**HSR Template 2**<br>
+<img src="/assets/images/hsr_temp2.png" alt="HSR Template 2" width="500"><br>
+
 #### Challange Cards
-![Memory of Chaos](/assets/images/hsr_moc.png)<br>
-![Pure Fiction](/assets/images/hsr_pf.png)
+**Memory of Chaos**<br>
+<img src="/assets/images/hsr_moc.png" alt="Memory of Chaos" width="500"><br>
+
+**Pure Fiction**<br>
+<img src="/assets/images/hsr_pf.png" alt="Pure Fiction" width="500"><br>
+
 ### Zenless Zone Zero
 #### Character Build Cards
-![ZZZ Template 1](/assets/images/zzz_temp1.png)<br>
-![ZZZ Template 2](/assets/images/zzz_temp2.png)<br>
-![ZZZ Template 4](/assets/images/zzz_temp4.png)<br>
+**ZZZ Template 1**<br>
+<img src="/assets/images/zzz_temp1.png" alt="ZZZ Template 1" width="500"><br>
+
+**ZZZ Template 2**<br>
+<img src="/assets/images/zzz_temp2.png" alt="ZZZ Template 2" width="500"><br>
+
+**ZZZ Template 3**<br>
+<img src="/assets/images/zzz_temp3.png" alt="ZZZ Template 4" width="500"><br>
+
 #### Challange Cards
-![Shiyu Defense](/assets/images/zzz_sd.png)<br>
-![Deadly Assault](/assets/images/zzz_da.png)
+**Shiyu Defense**<br>
+<img src="/assets/images/zzz_sd.png" alt="Shiyu Defense" width="500"><br>
+
+**Deadly Assault**<br>
+<img src="/assets/images/zzz_da.png" alt="Deadly Assault" width="500"><br>
+
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayasaku&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ayasaku&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayasaku&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ayasaku&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ayasaku&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayasaku&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
