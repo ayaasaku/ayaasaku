@@ -7,16 +7,11 @@
 # Some of my Designs:
 ## Hoyo Buddy
 ### Honkai: Star Rail
-#### Character Build Cards
-**HSR Template 2**<br>
-<img src="/assets/images/hsr_temp2.png" alt="HSR Template 2" width="500"><br>
 
-#### Challange Cards
-**Memory of Chaos**<br>
-<img src="/assets/images/hsr_moc.png" alt="Memory of Chaos" width="500"><br>
-
-**Pure Fiction**<br>
-<img src="/assets/images/hsr_pf.png" alt="Pure Fiction" width="500"><br>
+| Character Build Cards  | Challange Cards |
+| :-----------: | :-----------: |
+| **HSR Template 2**<br> <img src="/assets/images/hsr_temp2.png" alt="HSR Template 2" width="500"><br>  | **Memory of Chaos**<br> <img src="/assets/images/hsr_moc.png" alt="Memory of Chaos" width="500"><br>  |
+|   | **Pure Fiction**<br> <img src="/assets/images/hsr_pf.png" alt="Pure Fiction" width="500"><br>  |
 
 ### Zenless Zone Zero
 #### Character Build Cards
