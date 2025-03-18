@@ -6,30 +6,12 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 # Some of my Designs:
 ## Hoyo Buddy
-### Honkai: Star Rail
 
-| Character Build Cards  | Challange Cards |
-| :-----------: | :-----------: |
 | **HSR Template 2**<br> <img src="/assets/images/hsr_temp2.png" alt="HSR Template 2" width="500"><br>  | **Memory of Chaos**<br> <img src="/assets/images/hsr_moc.png" alt="Memory of Chaos" width="500"><br>  |
-|   | **Pure Fiction**<br> <img src="/assets/images/hsr_pf.png" alt="Pure Fiction" width="500"><br>  |
-
-### Zenless Zone Zero
-#### Character Build Cards
-**ZZZ Template 1**<br>
-<img src="/assets/images/zzz_temp1.png" alt="ZZZ Template 1" width="500"><br>
-
-**ZZZ Template 2**<br>
-<img src="/assets/images/zzz_temp2.png" alt="ZZZ Template 2" width="500"><br>
-
-**ZZZ Template 3**<br>
-<img src="/assets/images/zzz_temp3.png" alt="ZZZ Template 4" width="500"><br>
-
-#### Challange Cards
-**Shiyu Defense**<br>
-<img src="/assets/images/zzz_sd.png" alt="Shiyu Defense" width="500"><br>
-
-**Deadly Assault**<br>
-<img src="/assets/images/zzz_da.png" alt="Deadly Assault" width="500"><br>
+| :-----------: | :-----------: |
+| **ZZZ Template 1**<br> <img src="/assets/images/zzz_temp1.png" alt="ZZZ Template 1" width="500"><br>  | **Pure Fiction**<br> <img src="/assets/images/hsr_pf.png" alt="Pure Fiction" width="500"><br>  |
+| **ZZZ Template 2**<br> <img src="/assets/images/zzz_temp2.png" alt="ZZZ Template 2" width="500"><br> | **Shiyu Defense**<br> <img src="/assets/images/zzz_sd.png" alt="Shiyu Defense" width="500"><br> |
+| **ZZZ Template 3**<br> <img src="/assets/images/zzz_temp3.png" alt="ZZZ Template 4" width="500"><br> | **Deadly Assault**<br> <img src="/assets/images/zzz_da.png" alt="Deadly Assault" width="500"><br> |
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ayasaku&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
